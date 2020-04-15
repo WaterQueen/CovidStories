@@ -31,8 +31,8 @@ He moves on to the Forrest and falls in love with Debora, a witch protecting the
 - [ ] Berber Tribe
 - [ ] Confession of the murder
 - [ ] Train ride Newspaper
- - [ ] Science vs Art
- - [ ] Writing about writing
+    - [ ] Science vs Art
+    - [ ] Writing about writing
 - [ ] Professor A
 - [ ] A count leads him to the Forrest
 - [ ] The witch
