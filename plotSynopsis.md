@@ -27,16 +27,16 @@ He moves on to the Forrest and falls in love with Debora, a witch protecting the
  
  
 - [ ] Family Dinner
-- [] K alone in the dessert
-- [] Berber Tribe
-- [] Confession of the murder
-- [] Train ride Newspaper
- - [] Science vs Art
- - [] Writing about writing
-- [] Professor A
-- [] A count leads him to the Forrest
-- [] The witch
-- [] Meditations with Thales
-- [] The clown in the city
-- [] K gets ripped off
-- [] Luca the clown
+- [ ] K alone in the dessert
+- [ ] Berber Tribe
+- [ ] Confession of the murder
+- [ ] Train ride Newspaper
+ - [ ] Science vs Art
+ - [ ] Writing about writing
+- [ ] Professor A
+- [ ] A count leads him to the Forrest
+- [ ] The witch
+- [ ] Meditations with Thales
+- [ ] The clown in the city
+- [ ] K gets ripped off
+- [ ] Luca the clown
