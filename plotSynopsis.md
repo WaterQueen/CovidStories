@@ -7,7 +7,7 @@ Out of a wave K lands on the island Hekweh. He is taken in by a family. At dinne
 
 1. Wave
   * Out of a wave K lands on the island Hekweh. He is taken in by a family. At dinner an argument between father and grandfather breaks out. K just has eyes for the daughter. It creates a scene and they exile him to the dessert.
-  [] Family dinner
+  - [] Family dinner
 2. Drop
   * There he walks for a day and meets Jess.
 3. Whirl
