@@ -7,7 +7,6 @@ Out of a wave K lands on the island Hekweh. He is taken in by a family. At dinne
 
 1. Wave
   * Out of a wave K lands on the island Hekweh. He is taken in by a family. At dinner an argument between father and grandfather breaks out. K just has eyes for the daughter. It creates a scene and they exile him to the dessert.
-  - [] Family dinner
 2. Drop
   * There he walks for a day and meets Jess.
 3. Whirl
@@ -27,8 +26,17 @@ He moves on to the Forrest and falls in love with Debora, a witch protecting the
  * He accidentally follows the gipsy to the shore. Where K gets made fun off and the clown gets honest. The clown asks K a strange question and he leaves to the sea.
  
  
- - [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
+- [ ] Family Dinner
+- [] K alone in the dessert
+- [] Berber Tribe
+- [] Confession of the murder
+- [] Train ride Newspaper
+ - [] Science vs Art
+ - [] Writing about writing
+- [] Professor A
+- [] A count leads him to the Forrest
+- [] The witch
+- [] Meditations with Thales
+- [] The clown in the city
+- [] K gets ripped off
+- [] Luca the clown
