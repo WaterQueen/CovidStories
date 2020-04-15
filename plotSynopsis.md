@@ -12,8 +12,9 @@ Out of a wave K lands on the island Hekweh. He is taken in by a family. At dinne
 3. Whirl
  * She leads him through the dessert and K confesses choking a man to death, that he had only met. The man fought back only in the last moment. J doesn't judge him and K is caught between a murderer and an artist.
 4. Clouds
-  * With a train K leaves J and travels to the mountain
+ * With a train K leaves J and travels to the mountain
 5. Crystal
+ * Newspaper story
 6. Snowflake
   * where he meets a strange professor, who examines K on the subject of a cat that is asleep and awake at the same time. K believes he was under this condition when the incident happened.
 7. Source
