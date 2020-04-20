@@ -6,7 +6,7 @@ A wave of sound is every word. The act of speaking echoes meaning in the minds o
 One sometimes point: 
                                            "Look! A drop! It's falling." 
 But One doesn't know, if that means rain. So fast the meaning seems to drain. Oneself has never truely understood the full scope of two opposites. Live and Death - Sadness and Joy - symbiont and parasite. Like a whirl One circles around.
-But through those opposites One gets a path to phantasy. A world how it could not be. One has to love the freedom of flying through the clouds. One meets cloudpeople and they tell One different ways to fly.
+But through those opposites One gets a path to phantasy. A world, how it could not be. One has to love the freedom of flying through the clouds. One meets cloudpeople and they tell One different ways to fly.
 But one day One finds a true way of speaking. It was in Ones name:
 The One. 
 What does that mean One asks?
